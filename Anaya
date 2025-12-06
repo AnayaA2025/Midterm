@@ -1,0 +1,14 @@
+cyb213-midterm/
+├── server.py
+├── client.py
+├── port_scanner.py
+├── README.md
+├── screenshots/
+│   ├── server_listening.png
+│   ├── client_connected.png
+│   ├── message_exchange.png
+│   ├── client_error_no_server.png
+│   ├── scanner_localhost.png
+│   ├── scanner_scanme.png
+│   └── timestamps.txt
+└── reflection.txt
