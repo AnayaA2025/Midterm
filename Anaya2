@@ -1,0 +1,15 @@
+# CYB213 Midterm - Socket & Port Scanner
+
+Contains:
+- `server.py` — multi-client TCP server (default 127.0.0.1:9000)
+- `client.py` — simple TCP client
+- `port_scanner.py` — threaded port scanner (safe targets only: 127.0.0.1, scanme.nmap.org)
+
+Run examples:
+- `python3 server.py --host 127.0.0.1 --port 9000`
+- `python3 client.py --host 127.0.0.1 --port 9000`
+- `python3 port_scanner.py 127.0.0.1 -p 22,80,443`
+
+See /screenshots for demonstration evidence and timestamps.
+
+Academic integrity and reflection included in `reflection.txt`.
